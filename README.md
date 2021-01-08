@@ -2,4 +2,4 @@
 
 ## Name:Ebru
 ## Surname: AYDINDAĞ BAYRAK 
-## *e-mail:ebruaydindag@gmail.com
+## e-mail:ebruaydindag@gmail.com
