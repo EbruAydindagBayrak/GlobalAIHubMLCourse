@@ -1,8 +1,8 @@
 # GlobalAIHubMLCourse
 
-**Name:** 
+# **Name:** 
 Ebru
-**Surname:**
+# **Surname:**
 AYDINDAĞ BAYRAK 
-**e-mail:**
+#**e-mail:**
 ebruaydindag@gmail.com
